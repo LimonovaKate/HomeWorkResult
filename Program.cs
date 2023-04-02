@@ -8,3 +8,10 @@ Console.Write("[");  // ввыводим в консоль получивший�
 for (int i=0; i<array.Length-1; i++)
     Console.Write($"{array[i]}, ");
 Console.Write($"{array[array.Length-1]}] -> [");
+
+for (int i=0; i<array.Length; i++) // проверяем длину элементов и при выполнении условия выводим в консоль
+{
+    if (array[i].Length<=3)
+        Console.Write($"{array[i]} ");
+}
+Console.Write("]");
