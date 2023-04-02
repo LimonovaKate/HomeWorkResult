@@ -1,0 +1,15 @@
+C:\Users\СашаКатя\Desktop\Учеба Катя\HomeWork Result\HomeWorkResult\bin\Debug\net6.0\HomeWorkResult.exe
+C:\Users\СашаКатя\Desktop\Учеба Катя\HomeWork Result\HomeWorkResult\bin\Debug\net6.0\HomeWorkResult.deps.json
+C:\Users\СашаКатя\Desktop\Учеба Катя\HomeWork Result\HomeWorkResult\bin\Debug\net6.0\HomeWorkResult.runtimeconfig.json
+C:\Users\СашаКатя\Desktop\Учеба Катя\HomeWork Result\HomeWorkResult\bin\Debug\net6.0\HomeWorkResult.dll
+C:\Users\СашаКатя\Desktop\Учеба Катя\HomeWork Result\HomeWorkResult\bin\Debug\net6.0\HomeWorkResult.pdb
+C:\Users\СашаКатя\Desktop\Учеба Катя\HomeWork Result\HomeWorkResult\obj\Debug\net6.0\HomeWorkResult.csproj.AssemblyReference.cache
+C:\Users\СашаКатя\Desktop\Учеба Катя\HomeWork Result\HomeWorkResult\obj\Debug\net6.0\HomeWorkResult.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\СашаКатя\Desktop\Учеба Катя\HomeWork Result\HomeWorkResult\obj\Debug\net6.0\HomeWorkResult.AssemblyInfoInputs.cache
+C:\Users\СашаКатя\Desktop\Учеба Катя\HomeWork Result\HomeWorkResult\obj\Debug\net6.0\HomeWorkResult.AssemblyInfo.cs
+C:\Users\СашаКатя\Desktop\Учеба Катя\HomeWork Result\HomeWorkResult\obj\Debug\net6.0\HomeWorkResult.csproj.CoreCompileInputs.cache
+C:\Users\СашаКатя\Desktop\Учеба Катя\HomeWork Result\HomeWorkResult\obj\Debug\net6.0\HomeWorkResult.dll
+C:\Users\СашаКатя\Desktop\Учеба Катя\HomeWork Result\HomeWorkResult\obj\Debug\net6.0\refint\HomeWorkResult.dll
+C:\Users\СашаКатя\Desktop\Учеба Катя\HomeWork Result\HomeWorkResult\obj\Debug\net6.0\HomeWorkResult.pdb
+C:\Users\СашаКатя\Desktop\Учеба Катя\HomeWork Result\HomeWorkResult\obj\Debug\net6.0\HomeWorkResult.genruntimeconfig.cache
+C:\Users\СашаКатя\Desktop\Учеба Катя\HomeWork Result\HomeWorkResult\obj\Debug\net6.0\ref\HomeWorkResult.dll
